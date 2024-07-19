@@ -72,13 +72,23 @@ This Tool Charges 0.1A to Mint.
 
 Item 7) Tools Homepage and The Laboratory Redesign (New Site/Page Upgrade)
 We want to help consolodate all the information from the No-Code tools we have built and have everything in one place for anyone new to the ecosystem to discover.
-This would include a new tools.thurstober.com website that links to the labs (tools), we (wallet enhancer), and claims subdomains. 
+This would include a new look for labs.thurstober.com website that links to the labs (tools), we (wallet enhancer), and claims subdomains. 
 In addition, this will upgrade the theming of the Labs webpage to match Wallet Enhancer to create a new uniform, upgraded look across all our platforms. 
 
 ### Deliverable
-The deliverables for this are simple, they'll be open source tools. If they're not delivered, there will be no tool.
+The Deliverables for this proposal are now complete, you can see them here:
+Item 1: https://labs.thurstober.com/vault-send
+Item 2: https://swapshop.thurstober.com/
+Item 3: https://labs.thurstober.com/simple-mint and https://labs.thurstober.com/simple-update
+Item 4: https://labs.thurstober.com/multimint-asset-holders
+Item 5: https://we.thurstober.com/asset/2168901496
+Item 6: https://labs.thurstober.com/simple-batch-mint
+Item 7: https://labs.thurstober.com/
 
-You'll be able to check the status of the tools by using the tools tab at https://thurstober.com/
+Repos: 
+Labs: https://github.com/thurstober-digital/evil-tools
+Wallet Enhancer: https://github.com/algovado/wallet-enhancer
+Swap Shop: https://github.com/algovado/swap-shop
 
 ## Future Blueprint
 Once our Proposal hits 50% we will start building some of these tools. We understand how much the community needs these and hopes that our goodwill effort will propel this proposal past the finish line. 
